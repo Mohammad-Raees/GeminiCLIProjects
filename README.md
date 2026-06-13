@@ -77,4 +77,4 @@ The output will be in the `dist` folder.
 The "Impossible" difficulty uses a recursive Minimax algorithm that explores all possible future moves to determine the optimal path. It assigns scores to potential outcomes (+10 for AI win, -10 for Human win, 0 for draw) and chooses the move that maximizes its own score while assuming the human plays optimally to minimize it.
 
 ---
-Built with ❤️ by Gemini CLI
+Built with ❤️ by Mohammad Raees
